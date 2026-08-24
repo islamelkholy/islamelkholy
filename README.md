@@ -1,10 +1,11 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm islam elkholy, Beginner C++ Programmer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Islam+Elkholy+%F0%9F%91%8B;C%2B%2B+Programmer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Future+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Coding Animation" 
+       width="450">
 </h2>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
