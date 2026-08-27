@@ -38,7 +38,7 @@
 * [x] C++ Basics
 * [x] Classes
 * [x] Encapsulation
-* [ ] Inheritance
+* [x] Inheritance
 * [ ] Operator Overloading
 * [ ] Polymorphism
 * [ ] Data Structures
