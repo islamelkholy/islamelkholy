@@ -39,11 +39,12 @@
 * [x] Classes
 * [x] Encapsulation
 * [x] Inheritance
-* [ ] Operator Overloading
-* [ ] Polymorphism
+* [x] Operator Overloading
+* [x] Problem Solving
+* [x] Polymorphism
 * [ ] Data Structures
 * [ ] Algorithms
-* [ ] Problem Solving
+
 
 <h2 align="left">🚀 Goals:</h2>
 
