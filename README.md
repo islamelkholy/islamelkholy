@@ -25,7 +25,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 * :computer: I'm currently learning C++ and programming fundamentals
-* :books: Currently studying Object-Oriented Programming (OOP)
+* :books: I'm finished studying Object-Oriented Programming (OOP)
 * :brain: Interested in Problem Solving, Algorithms, and Data Structures
 * :rocket: Building small C++ projects to improve my programming skills
 * :wrench: Currently learning Git and GitHub
