@@ -29,43 +29,37 @@
 * :brain: Interested in Problem Solving, Algorithms, and Data Structures
 * :rocket: Building small C++ projects to improve my programming skills
 * :wrench: Currently learning Git and GitHub
+* 🐍 Currently moving toward Python development
 * :dart: My goal is to become a professional Software Developer
 * :seedling: Always learning and improving my skills
 * :chart_with_upwards_trend: This profile documents my programming journey
 
-<h2 align="left">📚 My Current Progress:</h2>
+<h2 align="left">🛠️ Skills:</h2>
 
-* [x] C++ Basics
-* [x] Classes
-* [x] Encapsulation
-* [x] Inheritance
-* [x] Operator Overloading
-* [x] Problem Solving
-* [x] Polymorphism
-* [ ] Data Structures
-* [ ] Algorithms
+Programming Languages
+
+<p> <img src="https://skillicons.dev/icons?i=cpp,python" /> </p>
+
+<h2 align="left">Tools:</h2>
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+
+<h2 align="left">📌 Featured Projects:</h2>
 
 
-<h2 align="left">🚀 Goals:</h2>
+Here are some of the projects I've worked on while learning C++:
 
-* Master C++ fundamentals
-* Improve my problem-solving skills
-* Learn Data Structures & Algorithms
-* Build real-world C++ projects
-* Learn Git & GitHub
-* Explore Software Development
-* Build a strong portfolio
+🏦 Bank Management System — Account management, deposits, withdrawals, transfers and transaction history.
+🏫 School Management System — Student and teacher management using OOP.
+🧮 Calculating System — Practice project for C++ fundamentals and problem solving.
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=islamelkholy&show_icons=true&theme=tokyonight" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight" /> </p>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-<p align="left">
-    <a href="https://github.com/YOUR_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</p>
+<p> <a href="https://github.com/islamelkholy"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <i>"Learning by building, improving by solving."</i> </p>
