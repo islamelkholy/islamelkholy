@@ -60,6 +60,6 @@ Here are some of the projects I've worked on while learning C++:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight" /> </p>
 
 <h2 align="left">:heart: Let's get connected:</h2>
-
-<p> <a href="https://github.com/islamelkholy"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p> <a href="https://www.facebook.com/islam.elkholy.43195"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://www.instagram.com/islam._.elkholy?stkn=MWs2b3kwbGc2b3J2bQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/islamelkholy"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 <p align="center"> <i>"Learning by building, improving by solving."</i> </p>
+
