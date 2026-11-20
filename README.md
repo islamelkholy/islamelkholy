@@ -56,16 +56,12 @@ Here are some projects I've built while learning C++:
 - 🧮 [Calculating System](https://github.com/islamelkholy/C----Calculating-System)
 - 🌐 [My First Web Page](https://islamelkholy.github.io/my-first-web-page/)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islamelkholy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=islamelkholy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight" />
-</p>
-
 ## 📫 Connect With Me
 
 <p>
