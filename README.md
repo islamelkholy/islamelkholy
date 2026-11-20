@@ -22,44 +22,65 @@
     </a>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+# Hi 👋, I'm Islam Elkholy
 
-* :computer: I'm currently learning C++ and programming fundamentals
-* :books: I'm finished studying Object-Oriented Programming (OOP)
-* :brain: Interested in Problem Solving, Algorithms, and Data Structures
-* :rocket: Building small C++ projects to improve my programming skills
-* :wrench: Currently learning Git and GitHub
-* 🐍 Currently moving toward Python development
-* :dart: My goal is to become a professional Software Developer
-* :seedling: Always learning and improving my skills
-* :chart_with_upwards_trend: This profile documents my programming journey
+### 💻 Computer Science Student | Aspiring Full-Stack Developer
 
-<h2 align="left">🛠️ Skills:</h2>
+I'm passionate about programming and building websites and applications. I enjoy learning new technologies and turning ideas into practical projects.
 
-Programming Languages
+## 👨‍💻 About Me
 
-<p> <img src="https://skillicons.dev/icons?i=cpp,python" /> </p>
+- 🎓 Computer Science Student
+- 🌐 Currently learning **HTML & CSS**
+- 💻 Previously studied **C++, OOP, and Data Structures**
+- 🧠 Interested in Problem Solving and Software Development
+- 🚀 Working toward becoming a **Full-Stack Developer**
+- 📚 Learning by building projects and improving my programming skills
+- 🎯 My goal is to build modern, responsive, and functional web applications.
 
-<h2 align="left">Tools:</h2>
+## 🛠️ Skills & Technologies
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+**Currently Learning:**
 
-<h2 align="left">📌 Featured Projects:</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+📌 My Projects
 
+Here are some projects I've built while learning C++:
 
-Here are some of the projects I've worked on while learning C++:
+- 🏦 [Bank Management System](https://github.com/islamelkholy/Advanced-Bank)
+- 🏫 [School Management System](https://github.com/islamelkholy/C------School-System)
+- 🧮 [Calculating System](https://github.com/islamelkholy/C----Calculating-System)
 
-🏦 Bank Management System — Account management, deposits, withdrawals, transfers and transaction history.
-🏫 School Management System — Student and teacher management using OOP.
-🧮 Calculating System — Practice project for C++ fundamentals and problem solving.
+## 📊 GitHub Stats
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islamelkholy&show_icons=true&theme=tokyonight" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=islamelkholy&show_icons=true&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight" /> </p>
+## 📫 Connect With Me
 
-<h2 align="left">:heart: Let's get connected:</h2>
-<p> <a href="https://www.facebook.com/islam.elkholy.43195"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://www.instagram.com/islam._.elkholy?stkn=MWs2b3kwbGc2b3J2bQ=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/islamelkholy"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <i>"Learning by building, improving by solving."</i> </p>
+<p>
+  <a href="https://github.com/islamelkholy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/islam.elkholy.43195">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/islam._.elkholy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <i>"Learn. Build. Improve. Repeat."</i>
+</p>
