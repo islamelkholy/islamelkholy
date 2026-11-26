@@ -63,7 +63,7 @@ Here are some projects I've built while learning C++:
   <img src="https://github-readme-stats.vercel.app/api?username=islamelkholy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelkholy&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-## 📫 Connect With Me
+ 📫 Connect With Me
 
 <p>
   <a href="https://github.com/islamelkholy">
