@@ -55,6 +55,7 @@ Here are some projects I've built while learning C++:
 - 🏫 [School Management System](https://github.com/islamelkholy/C------School-System)
 - 🧮 [Calculating System](https://github.com/islamelkholy/C----Calculating-System)
 - 🌐 [My First Web Page](https://islamelkholy.github.io/my-first-web-page/)
+- 🌐 [My Second Web Page](https://islamelkholy.github.io/my-second-web-page/)
 
 ## 📊 GitHub Statistics
 
